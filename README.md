@@ -1,4 +1,4 @@
-# Spotify Listening History Analysis
+<img width="906" height="505" alt="d1" src="https://github.com/user-attachments/assets/680d2c01-ca74-4400-8db2-c81823cb0f85" /># Spotify Listening History Analysis
 
 Welcome to the **Spotify Listening History Analysis** project! This project explores 149,860 Spotify listening records to understand music preferences, listening habits, and playback behavior using Python. It focuses on discovering patterns and trends in music consumption through data analysis and visualization.
 
