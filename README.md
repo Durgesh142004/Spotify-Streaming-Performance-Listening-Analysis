@@ -3,7 +3,8 @@
 Welcome to the **Spotify Listening History Analysis** project! This project explores 149,860 Spotify listening records to understand music preferences, listening habits, and playback behavior using Python. It focuses on discovering patterns and trends in music consumption through data analysis and visualization.
 
 
-![Uploading d1.png…]()
+<img width="906" height="505" alt="d1" src="https://github.com/user-attachments/assets/ec584a03-c5c6-45d1-8e5b-9f73c1a7f071" />
+
 
 
 
